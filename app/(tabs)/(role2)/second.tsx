@@ -1,4 +1,4 @@
-// ./app/(auth)/(first)/index.tsx
+// ./app/(auth)/(role2)/index.tsx
 import { Text, View } from "react-native";
 
 export default function ClientSecondScreen() {

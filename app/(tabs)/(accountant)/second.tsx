@@ -1,4 +1,4 @@
-// ./app/(auth)/(first)/index.tsx
+// ./app/(auth)/(accountant)/index.tsx
 import { Text, View } from "react-native";
 
 export default function AccountantSecondScreen() {
