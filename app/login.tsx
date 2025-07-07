@@ -16,7 +16,7 @@ export default function LoginScreen() {
           Iniciar Sesión 2
         </Text>
       </TouchableOpacity>
-      <TouchableOpacity onPress={() => router.push("/(auth)/recovery")}>
+      <TouchableOpacity onPress={() => router.push("/recovery")}>
         <Text className="text-green-600 underline text-sm mt-4">
           ¿Olvidaste tu contraseña?
         </Text>
